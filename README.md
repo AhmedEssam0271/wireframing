@@ -67,8 +67,7 @@ Project:
 Usability Issue Identified:
 
 - The wireframe showed that users needed to go through five separate pages to complete a purchase—cart review,
-  shipping info, delivery method, payment details, and confirmation. During a stakeholder review, it became evident that
-  this multi-step process felt clunky and time-consuming, especially for mobile users.
+  shipping info, delivery method, payment details, and confirmation. During a stakeholder review, it became evident that this multi-step process felt clunky and time-consuming, especially for mobile users.
 
 Resolution:
 
